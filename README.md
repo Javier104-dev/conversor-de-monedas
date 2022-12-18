@@ -3,7 +3,7 @@
 <h4 align="center"> :construction: Proyecto en construcción :construction:</h4>
   
   
-<h4 align="cewnter> ## :hammer:Descripcion del proyecto </h4>
+<h2 align="center">:hammer:Descripcion del proyecto </h2>
 
 Conversor de monedas basico, hecho en Java 11 y utilizando Javax Swing.</p>
  
@@ -26,7 +26,8 @@ Fue un challenge del programa ONE – Oracle Next Education donde debiamos poner
    - Convertir de Won sul-coreano a la moneda de tu país
 
 
-## Imagenes del proyecto
+<h2 align="center">:hammer:Imagenes del proyecto </h2>
+
 
   
 

@@ -54,5 +54,5 @@ Gracias por ver mi repositorio.
 
 
 ## Autor:
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Javir Anibal Villca</sub>](https://github.com/Javier104-dev)  |
+| [<img src="https://avatars.githubusercontent.com/u/105408069?v=4" width=115><br><sub>Javir Anibal Villca</sub>](https://github.com/Javier104-dev)  |
 | :---: |

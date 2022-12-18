@@ -29,8 +29,10 @@ Fue un challenge del programa ONE – Oracle Next Education donde debiamos poner
 <h2 align="center">:hammer:Imagenes del proyecto </h2>
 
 
+Al iniciar el convertidor se abre la primer ventana donde podran elegir la clase de convertirdor, por el momento solo funciona la logica del convertidor de moneda en el futuro terminare la seccion de temperatura.
   
 
+![Captura de pantalla (7)](https://user-images.githubusercontent.com/105408069/208318819-ee6c0275-a747-46f9-9a5c-05288179d98f.png)
 
 
 

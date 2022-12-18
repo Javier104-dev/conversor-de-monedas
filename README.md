@@ -52,5 +52,7 @@ Mi primero programa realizado con Java 11, es un proyecto sencillo pero para ser
 
 Gracias por ver mi repositorio.
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda)  |
+
+## Autor:
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Javir Anibal Villca</sub>](https://github.com/Javier104-dev)  |
 | :---: |

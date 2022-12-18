@@ -28,23 +28,23 @@ public class OpcionesDeCambio {
 						}, "Seleccion")).toString();
 		
 		switch (opcionesDeCambio) {			
-			case "Convertir pesos a dolares":
+			case "Convertir Pesos a Dolares":
 				logicaConvertir.ConvertirPesosADolares(inputUsuario);
 			break;			
 			
-			case "Conversor pesos a Euros":
+			case "Conversor Pesos a Euros":
 				logicaConvertir.ConvertirPesosAEuros(inputUsuario);
 			break;
 			
-			case "Conversor pesos a Libras Esterlinas":
+			case "Conversor Pesos a Libras Esterlinas":
 				logicaConvertir.ConvertirPesosALibrasEsterlinas(inputUsuario);
 			break;
 			
-			case "Conversor pesos a Yen Japones":
+			case "Conversor Pesos a Yen Japones":
 				logicaConvertir.ConvertirPesosAYenJapones(inputUsuario);
 			break;
 		
-			case "Conversor pesos a Won Coreano":
+			case "Conversor Pesos a Won Coreano":
 				logicaConvertir.ConvertirPesosAWonCoreano(inputUsuario);
 			break;
 			

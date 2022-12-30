@@ -32,21 +32,26 @@ Fue un challenge del programa ONE – Oracle Next Education donde debiamos poner
 Al iniciar el convertidor se abre la primer ventana donde podran elegir la clase de convertirdor, por el momento solo funciona la logica del convertidor de moneda, pero tendra mas opciones para elegir como un convertirdor de temperatura o kilomentos.
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/105408069/208318819-ee6c0275-a747-46f9-9a5c-05288179d98f.png">
+     <img width="400" heigth="auto" src="https://user-images.githubusercontent.com/105408069/208318819-ee6c0275-a747-46f9-9a5c-05288179d98f.png">
 </p>
 
 La segunda ventana es un showInputDialog donde se debe ingresar el monto de dinero para ser convertido. En el campo solo se permiten valores numericos o aparecera una ventana de advertencia.
 
-![Captura de pantalla (8)](https://user-images.githubusercontent.com/105408069/208318967-87f80c41-3239-438c-b2d1-ed457024c5a2.png)
+<p align="center" >
+     <img width="400" heigth="auto" src="https://user-images.githubusercontent.com/105408069/208318967-87f80c41-3239-438c-b2d1-ed457024c5a2.png">
+</p>
 
 Despues de elegir un monto, se abrira un menu con los tipos de cambios, convertir pesos argentinos a moneda extranjera o viceversa.
 
-![Captura de pantalla (9)](https://user-images.githubusercontent.com/105408069/208319087-4896d8d8-18a1-4ee0-8710-bbca5eb3f7aa.png)
+<p align="center" >
+     <img width="400" heigth="auto" src="https://user-images.githubusercontent.com/105408069/208319087-4896d8d8-18a1-4ee0-8710-bbca5eb3f7aa.png">
+</p>
 
 Por ultimo se abrira una pequeña ventana showMessageDialog con el valor convertido y al aceptar se le daran opciones para continuar con otra moneda o para cerrar el programa.
 
-![Captura de pantalla (10)](https://user-images.githubusercontent.com/105408069/208319190-2f820111-c24c-45a0-b98f-e424b3279baa.png)
-
+<p align="center" >
+     <img width="400" heigth="auto" src="https://user-images.githubusercontent.com/105408069/208319190-2f820111-c24c-45a0-b98f-e424b3279baa.png">
+</p>
 
 <h2 align="center"> Conclusiones</h2>
 

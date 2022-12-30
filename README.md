@@ -31,7 +31,7 @@ Fue un challenge del programa ONE – Oracle Next Education donde debiamos poner
 
 Al iniciar el convertidor se abre la primer ventana donde podran elegir la clase de convertirdor, por el momento solo funciona la logica del convertidor de moneda, pero tendra mas opciones para elegir como un convertirdor de temperatura o kilomentos.
 
-https://user-images.githubusercontent.com/105408069/208318819-ee6c0275-a747-46f9-9a5c-05288179d98f.png
+![Captura de pantalla (7)]https://user-images.githubusercontent.com/105408069/208318819-ee6c0275-a747-46f9-9a5c-05288179d98f.png
 
 La segunda ventana es un showInputDialog donde se debe ingresar el monto de dinero para ser convertido. En el campo solo se permiten valores numericos o aparecera una ventana de advertencia.
 
